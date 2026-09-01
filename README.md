@@ -2,6 +2,10 @@
 
 Redesign conceitual da página institucional da 14S Tecnologia, desenvolvido como projeto de estudo utilizando HTML e CSS puro.
 
+## Preview
+
+![Preview do projeto](./docs/images/preview.png)
+
 ## Tecnologias
 
 - HTML5
